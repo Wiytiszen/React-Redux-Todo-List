@@ -1,0 +1,15 @@
+.todoList{
+  display: flex;
+  align-items: center;
+  background: cadetblue;
+  flex-direction: column;
+}
+.todos{
+  width: 50%;
+  background: red;
+  display: flex;
+}
+.todos > p{
+  
+  width: 90%;
+}
